@@ -14,6 +14,105 @@
 		F133EB791F2DB2D5009AB81C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F133EB771F2DB2D5009AB81C /* LaunchScreen.storyboard */; };
 		F133EB841F2DB2D5009AB81C /* study2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EB831F2DB2D5009AB81C /* study2Tests.swift */; };
 		F133EB8F1F2DB2D5009AB81C /* study2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EB8E1F2DB2D5009AB81C /* study2UITests.swift */; };
+		F133EBB11F2DB50B009AB81C /* １.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBAE1F2DB50B009AB81C /* １.jpeg */; };
+		F133EBBB1F2DBA94009AB81C /* 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB21F2DBA94009AB81C /* 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg */; };
+		F133EBBC1F2DBA94009AB81C /* 9e3e9c9919697316ed9fce86ed50d207.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB31F2DBA94009AB81C /* 9e3e9c9919697316ed9fce86ed50d207.jpg */; };
+		F133EBBD1F2DBA94009AB81C /* 018-pictogram-illustration.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB41F2DBA94009AB81C /* 018-pictogram-illustration.jpg */; };
+		F133EBBE1F2DBA94009AB81C /* aYaIkZ2iwkbGkme_S9QaS_218.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB51F2DBA94009AB81C /* aYaIkZ2iwkbGkme_S9QaS_218.png */; };
+		F133EBBF1F2DBA94009AB81C /* Bfnk32_CEAEiGRE.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB61F2DBA94009AB81C /* Bfnk32_CEAEiGRE.jpg */; };
+		F133EBC21F2DBA94009AB81C /* cd91a31bcd5fee183d754d3f22c266d6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBB91F2DBA94009AB81C /* cd91a31bcd5fee183d754d3f22c266d6.jpg */; };
+		F133EBC31F2DBA94009AB81C /* ClklYzOUYAElXtw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBBA1F2DBA94009AB81C /* ClklYzOUYAElXtw.jpg */; };
+		F133EBEE1F2DBAD2009AB81C /* Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBC41F2DBAD2009AB81C /* Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg */; };
+		F133EBEF1F2DBAD2009AB81C /* imgb7013481zik1zj-e1401337402514-300x186.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBC51F2DBAD2009AB81C /* imgb7013481zik1zj-e1401337402514-300x186.jpeg */; };
+		F133EBF11F2DBAD2009AB81C /* あきらめ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EBC71F2DBAD2009AB81C /* あきらめ.jpg */; };
+		F133EBF21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 10.28.12.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBC81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 10.28.12.png */; };
+		F133EBF31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.20.48.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBC91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.20.48.png */; };
+		F133EBF41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.02.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.02.png */; };
+		F133EBF51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.29.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.29.png */; };
+		F133EBF61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.05.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.05.png */; };
+		F133EBF71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.20.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.20.png */; };
+		F133EBF81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.24.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.24.png */; };
+		F133EBF91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.37.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBCF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.37.png */; };
+		F133EBFA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.47.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.47.png */; };
+		F133EBFB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.03.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.03.png */; };
+		F133EBFC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.27.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.27.png */; };
+		F133EBFD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.22.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.22.png */; };
+		F133EBFE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.32.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.32.png */; };
+		F133EBFF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.38.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.38.png */; };
+		F133EC001F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.13.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.13.png */; };
+		F133EC011F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.33.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.33.png */; };
+		F133EC021F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.55.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.55.png */; };
+		F133EC031F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.43.15.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBD91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.43.15.png */; };
+		F133EC041F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.09.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.09.png */; };
+		F133EC051F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.44.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.44.png */; };
+		F133EC061F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.58.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.58.png */; };
+		F133EC071F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.19.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.19.png */; };
+		F133EC081F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.37.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.37.png */; };
+		F133EC091F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.41.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBDF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.41.png */; };
+		F133EC0A1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.49.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.49.png */; };
+		F133EC0B1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.53.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.53.png */; };
+		F133EC0C1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.02.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.02.png */; };
+		F133EC0D1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.11.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.11.png */; };
+		F133EC0E1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.23.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.23.png */; };
+		F133EC0F1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.30.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.30.png */; };
+		F133EC101F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.36.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.36.png */; };
+		F133EC111F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.50.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.50.png */; };
+		F133EC121F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.00.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.00.png */; };
+		F133EC131F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.07.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBE91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.07.png */; };
+		F133EC141F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.18.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBEA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.18.png */; };
+		F133EC151F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.26.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBEB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.26.png */; };
+		F133EC161F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.37.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBEC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.37.png */; };
+		F133EC171F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.53.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EBED1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.53.png */; };
+		F133EC2C1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.49.01.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC181F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.49.01.png */; };
+		F133EC2D1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.44.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC191F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.44.png */; };
+		F133EC2E1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.49.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1A1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.49.png */; };
+		F133EC2F1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.54.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1B1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.54.png */; };
+		F133EC301F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.03.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1C1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.03.png */; };
+		F133EC311F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.08.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1D1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.08.png */; };
+		F133EC321F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.18.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1E1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.18.png */; };
+		F133EC331F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.22.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC1F1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.22.png */; };
+		F133EC341F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.27.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC201F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.27.png */; };
+		F133EC351F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.32.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC211F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.32.png */; };
+		F133EC361F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.37.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC221F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.37.png */; };
+		F133EC371F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.46.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC231F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.46.png */; };
+		F133EC381F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.52.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC241F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.52.png */; };
+		F133EC391F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.52.00.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC251F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.52.00.png */; };
+		F133EC3A1F2DBDF0009AB81C /* ダウンロード (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC261F2DBDF0009AB81C /* ダウンロード (1).jpeg */; };
+		F133EC3B1F2DBDF0009AB81C /* ダウンロード.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC271F2DBDF0009AB81C /* ダウンロード.jpeg */; };
+		F133EC3C1F2DBDF0009AB81C /* ダウンロードのコピー.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC281F2DBDF0009AB81C /* ダウンロードのコピー.jpeg */; };
+		F133EC411F356511009AB81C /* １２.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC401F356511009AB81C /* １２.png */; };
+		F133EC431F3569DF009AB81C /* １１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC421F3569DF009AB81C /* １１.jpg */; };
+		F133EC491F357337009AB81C /* あわ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC451F357337009AB81C /* あわ.jpg */; };
+		F133EC4A1F357337009AB81C /* カッコイイ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC461F357337009AB81C /* カッコイイ.jpg */; };
+		F133EC4B1F357337009AB81C /* マリオ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC471F357337009AB81C /* マリオ.jpg */; };
+		F133EC4C1F357337009AB81C /* 月.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC481F357337009AB81C /* 月.jpg */; };
+		F133EC4E1F35743F009AB81C /* Unknown.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC4D1F35743F009AB81C /* Unknown.png */; };
+		F133EC501F357608009AB81C /* depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC4F1F357608009AB81C /* depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg */; };
+		F133EC521F35760E009AB81C /* 21431732-近代的なインターフェイス画面.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC511F35760E009AB81C /* 21431732-近代的なインターフェイス画面.jpg */; };
+		F133EC541F359AA3009AB81C /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC531F359AA3009AB81C /* ViewController2.swift */; };
+		F133EC561F359E47009AB81C /* munouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC551F359E47009AB81C /* munouViewController.swift */; };
+		F133EC581F35AC9A009AB81C /* studyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC571F35AC9A009AB81C /* studyViewController.swift */; };
+		F133EC5A1F35ACC2009AB81C /* musicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC591F35ACC2009AB81C /* musicViewController.swift */; };
+		F133EC5C1F35ACD6009AB81C /* gtyaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC5B1F35ACD6009AB81C /* gtyaViewController.swift */; };
+		F133EC5E1F35AD01009AB81C /* raiburariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC5D1F35AD01009AB81C /* raiburariViewController.swift */; };
+		F133EC601F35AFA7009AB81C /* munou2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133EC5F1F35AFA7009AB81C /* munou2ViewController.swift */; };
+		F133EC721F35B964009AB81C /* 00118.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC621F35B964009AB81C /* 00118.png */; };
+		F133EC731F35B964009AB81C /* 1468829306.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC631F35B964009AB81C /* 1468829306.jpg */; };
+		F133EC741F35B964009AB81C /* 20150725164919.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC641F35B964009AB81C /* 20150725164919.jpg */; };
+		F133EC751F35B964009AB81C /* 2526814093.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC651F35B964009AB81C /* 2526814093.jpg */; };
+		F133EC761F35B964009AB81C /* 36ba74ae.png in Resources */ = {isa = PBXBuildFile; fileRef = F133EC661F35B964009AB81C /* 36ba74ae.png */; };
+		F133EC771F35B964009AB81C /* 5047142i.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC671F35B964009AB81C /* 5047142i.jpeg */; };
+		F133EC781F35B964009AB81C /* 51NkTFQoeCL._SX355_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC681F35B964009AB81C /* 51NkTFQoeCL._SX355_.jpg */; };
+		F133EC791F35B964009AB81C /* 73ee5969716525cf67a6e6ae7376139f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC691F35B964009AB81C /* 73ee5969716525cf67a6e6ae7376139f.jpg */; };
+		F133EC7A1F35B964009AB81C /* 9c0d9b00aa367b662b1aceba79946987.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6A1F35B964009AB81C /* 9c0d9b00aa367b662b1aceba79946987.jpeg */; };
+		F133EC7B1F35B964009AB81C /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6B1F35B964009AB81C /* images.jpeg */; };
+		F133EC7C1F35B964009AB81C /* img20130405_001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6C1F35B964009AB81C /* img20130405_001.jpg */; };
+		F133EC7D1F35B964009AB81C /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6D1F35B964009AB81C /* maxresdefault.jpg */; };
+		F133EC7E1F35B964009AB81C /* mig (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6E1F35B964009AB81C /* mig (1).jpeg */; };
+		F133EC7F1F35B964009AB81C /* mig.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC6F1F35B964009AB81C /* mig.jpeg */; };
+		F133EC801F35B964009AB81C /* vgmusiclogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC701F35B964009AB81C /* vgmusiclogo.jpg */; };
+		F133EC811F35B964009AB81C /* ダウンロード東方.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F133EC711F35B964009AB81C /* ダウンロード東方.jpeg */; };
+		F17732ED1F36BC8100FCEFE4 /* song1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F17732EC1F36BC8100FCEFE4 /* song1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +146,105 @@
 		F133EB8A1F2DB2D5009AB81C /* study2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = study2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F133EB8E1F2DB2D5009AB81C /* study2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = study2UITests.swift; sourceTree = "<group>"; };
 		F133EB901F2DB2D5009AB81C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F133EBAE1F2DB50B009AB81C /* １.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "１.jpeg"; path = "../１.jpeg"; sourceTree = "<group>"; };
+		F133EBB21F2DBA94009AB81C /* 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg; path = ../6dd3efce2ea4b6c7fa398dd4188f8b44.jpg; sourceTree = "<group>"; };
+		F133EBB31F2DBA94009AB81C /* 9e3e9c9919697316ed9fce86ed50d207.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 9e3e9c9919697316ed9fce86ed50d207.jpg; path = ../9e3e9c9919697316ed9fce86ed50d207.jpg; sourceTree = "<group>"; };
+		F133EBB41F2DBA94009AB81C /* 018-pictogram-illustration.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "018-pictogram-illustration.jpg"; path = "../018-pictogram-illustration.jpg"; sourceTree = "<group>"; };
+		F133EBB51F2DBA94009AB81C /* aYaIkZ2iwkbGkme_S9QaS_218.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = aYaIkZ2iwkbGkme_S9QaS_218.png; path = ../aYaIkZ2iwkbGkme_S9QaS_218.png; sourceTree = "<group>"; };
+		F133EBB61F2DBA94009AB81C /* Bfnk32_CEAEiGRE.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bfnk32_CEAEiGRE.jpg; path = ../Bfnk32_CEAEiGRE.jpg; sourceTree = "<group>"; };
+		F133EBB91F2DBA94009AB81C /* cd91a31bcd5fee183d754d3f22c266d6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cd91a31bcd5fee183d754d3f22c266d6.jpg; path = ../cd91a31bcd5fee183d754d3f22c266d6.jpg; sourceTree = "<group>"; };
+		F133EBBA1F2DBA94009AB81C /* ClklYzOUYAElXtw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ClklYzOUYAElXtw.jpg; path = ../ClklYzOUYAElXtw.jpg; sourceTree = "<group>"; };
+		F133EBC41F2DBAD2009AB81C /* Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg"; path = "../Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg"; sourceTree = "<group>"; };
+		F133EBC51F2DBAD2009AB81C /* imgb7013481zik1zj-e1401337402514-300x186.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "imgb7013481zik1zj-e1401337402514-300x186.jpeg"; path = "../imgb7013481zik1zj-e1401337402514-300x186.jpeg"; sourceTree = "<group>"; };
+		F133EBC71F2DBAD2009AB81C /* あきらめ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "あきらめ.jpg"; path = "../あきらめ.jpg"; sourceTree = "<group>"; };
+		F133EBC81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 10.28.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 10.28.12.png"; path = "../スクリーンショット 2017-07-30 10.28.12.png"; sourceTree = "<group>"; };
+		F133EBC91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.20.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 12.20.48.png"; path = "../スクリーンショット 2017-07-30 12.20.48.png"; sourceTree = "<group>"; };
+		F133EBCA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 12.21.02.png"; path = "../スクリーンショット 2017-07-30 12.21.02.png"; sourceTree = "<group>"; };
+		F133EBCB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 12.21.29.png"; path = "../スクリーンショット 2017-07-30 12.21.29.png"; sourceTree = "<group>"; };
+		F133EBCC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.31.05.png"; path = "../スクリーンショット 2017-07-30 13.31.05.png"; sourceTree = "<group>"; };
+		F133EBCD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.31.20.png"; path = "../スクリーンショット 2017-07-30 13.31.20.png"; sourceTree = "<group>"; };
+		F133EBCE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.39.24.png"; path = "../スクリーンショット 2017-07-30 13.39.24.png"; sourceTree = "<group>"; };
+		F133EBCF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.39.37.png"; path = "../スクリーンショット 2017-07-30 13.39.37.png"; sourceTree = "<group>"; };
+		F133EBD01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.39.47.png"; path = "../スクリーンショット 2017-07-30 13.39.47.png"; sourceTree = "<group>"; };
+		F133EBD11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.40.03.png"; path = "../スクリーンショット 2017-07-30 13.40.03.png"; sourceTree = "<group>"; };
+		F133EBD21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.40.27.png"; path = "../スクリーンショット 2017-07-30 13.40.27.png"; sourceTree = "<group>"; };
+		F133EBD31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.41.22.png"; path = "../スクリーンショット 2017-07-30 13.41.22.png"; sourceTree = "<group>"; };
+		F133EBD41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.41.32.png"; path = "../スクリーンショット 2017-07-30 13.41.32.png"; sourceTree = "<group>"; };
+		F133EBD51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.41.38.png"; path = "../スクリーンショット 2017-07-30 13.41.38.png"; sourceTree = "<group>"; };
+		F133EBD61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.42.13.png"; path = "../スクリーンショット 2017-07-30 13.42.13.png"; sourceTree = "<group>"; };
+		F133EBD71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.42.33.png"; path = "../スクリーンショット 2017-07-30 13.42.33.png"; sourceTree = "<group>"; };
+		F133EBD81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.42.55.png"; path = "../スクリーンショット 2017-07-30 13.42.55.png"; sourceTree = "<group>"; };
+		F133EBD91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.43.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.43.15.png"; path = "../スクリーンショット 2017-07-30 13.43.15.png"; sourceTree = "<group>"; };
+		F133EBDA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.44.09.png"; path = "../スクリーンショット 2017-07-30 13.44.09.png"; sourceTree = "<group>"; };
+		F133EBDB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.44.44.png"; path = "../スクリーンショット 2017-07-30 13.44.44.png"; sourceTree = "<group>"; };
+		F133EBDC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.44.58.png"; path = "../スクリーンショット 2017-07-30 13.44.58.png"; sourceTree = "<group>"; };
+		F133EBDD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.45.19.png"; path = "../スクリーンショット 2017-07-30 13.45.19.png"; sourceTree = "<group>"; };
+		F133EBDE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.45.37.png"; path = "../スクリーンショット 2017-07-30 13.45.37.png"; sourceTree = "<group>"; };
+		F133EBDF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.46.41.png"; path = "../スクリーンショット 2017-07-30 13.46.41.png"; sourceTree = "<group>"; };
+		F133EBE01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.46.49.png"; path = "../スクリーンショット 2017-07-30 13.46.49.png"; sourceTree = "<group>"; };
+		F133EBE11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.46.53.png"; path = "../スクリーンショット 2017-07-30 13.46.53.png"; sourceTree = "<group>"; };
+		F133EBE21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.02.png"; path = "../スクリーンショット 2017-07-30 13.47.02.png"; sourceTree = "<group>"; };
+		F133EBE31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.11.png"; path = "../スクリーンショット 2017-07-30 13.47.11.png"; sourceTree = "<group>"; };
+		F133EBE41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.23.png"; path = "../スクリーンショット 2017-07-30 13.47.23.png"; sourceTree = "<group>"; };
+		F133EBE51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.30.png"; path = "../スクリーンショット 2017-07-30 13.47.30.png"; sourceTree = "<group>"; };
+		F133EBE61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.36.png"; path = "../スクリーンショット 2017-07-30 13.47.36.png"; sourceTree = "<group>"; };
+		F133EBE71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.47.50.png"; path = "../スクリーンショット 2017-07-30 13.47.50.png"; sourceTree = "<group>"; };
+		F133EBE81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.48.00.png"; path = "../スクリーンショット 2017-07-30 13.48.00.png"; sourceTree = "<group>"; };
+		F133EBE91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.48.07.png"; path = "../スクリーンショット 2017-07-30 13.48.07.png"; sourceTree = "<group>"; };
+		F133EBEA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.48.18.png"; path = "../スクリーンショット 2017-07-30 13.48.18.png"; sourceTree = "<group>"; };
+		F133EBEB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2017-07-30 13.48.26.png"; sourceTree = "<group>"; };
+		F133EBEC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2017-07-30 13.48.37.png"; sourceTree = "<group>"; };
+		F133EBED1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2017-07-30 13.48.53.png"; sourceTree = "<group>"; };
+		F133EC181F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.49.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.49.01.png"; path = "../スクリーンショット 2017-07-30 13.49.01.png"; sourceTree = "<group>"; };
+		F133EC191F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.50.44.png"; path = "../スクリーンショット 2017-07-30 13.50.44.png"; sourceTree = "<group>"; };
+		F133EC1A1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.50.49.png"; path = "../スクリーンショット 2017-07-30 13.50.49.png"; sourceTree = "<group>"; };
+		F133EC1B1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.50.54.png"; path = "../スクリーンショット 2017-07-30 13.50.54.png"; sourceTree = "<group>"; };
+		F133EC1C1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.03.png"; path = "../スクリーンショット 2017-07-30 13.51.03.png"; sourceTree = "<group>"; };
+		F133EC1D1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.08.png"; path = "../スクリーンショット 2017-07-30 13.51.08.png"; sourceTree = "<group>"; };
+		F133EC1E1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.18.png"; path = "../スクリーンショット 2017-07-30 13.51.18.png"; sourceTree = "<group>"; };
+		F133EC1F1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.22.png"; path = "../スクリーンショット 2017-07-30 13.51.22.png"; sourceTree = "<group>"; };
+		F133EC201F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.27.png"; path = "../スクリーンショット 2017-07-30 13.51.27.png"; sourceTree = "<group>"; };
+		F133EC211F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.32.png"; path = "../スクリーンショット 2017-07-30 13.51.32.png"; sourceTree = "<group>"; };
+		F133EC221F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.37.png"; path = "../スクリーンショット 2017-07-30 13.51.37.png"; sourceTree = "<group>"; };
+		F133EC231F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.46.png"; path = "../スクリーンショット 2017-07-30 13.51.46.png"; sourceTree = "<group>"; };
+		F133EC241F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.51.52.png"; path = "../スクリーンショット 2017-07-30 13.51.52.png"; sourceTree = "<group>"; };
+		F133EC251F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.52.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "スクリーンショット 2017-07-30 13.52.00.png"; path = "../スクリーンショット 2017-07-30 13.52.00.png"; sourceTree = "<group>"; };
+		F133EC261F2DBDF0009AB81C /* ダウンロード (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ダウンロード (1).jpeg"; path = "../ダウンロード (1).jpeg"; sourceTree = "<group>"; };
+		F133EC271F2DBDF0009AB81C /* ダウンロード.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ダウンロード.jpeg"; path = "../ダウンロード.jpeg"; sourceTree = "<group>"; };
+		F133EC281F2DBDF0009AB81C /* ダウンロードのコピー.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ダウンロードのコピー.jpeg"; path = "../ダウンロードのコピー.jpeg"; sourceTree = "<group>"; };
+		F133EC401F356511009AB81C /* １２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "１２.png"; sourceTree = "<group>"; };
+		F133EC421F3569DF009AB81C /* １１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "１１.jpg"; path = "../１１.jpg"; sourceTree = "<group>"; };
+		F133EC451F357337009AB81C /* あわ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "あわ.jpg"; sourceTree = "<group>"; };
+		F133EC461F357337009AB81C /* カッコイイ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "カッコイイ.jpg"; sourceTree = "<group>"; };
+		F133EC471F357337009AB81C /* マリオ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "マリオ.jpg"; sourceTree = "<group>"; };
+		F133EC481F357337009AB81C /* 月.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "月.jpg"; sourceTree = "<group>"; };
+		F133EC4D1F35743F009AB81C /* Unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Unknown.png; sourceTree = "<group>"; };
+		F133EC4F1F357608009AB81C /* depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg"; sourceTree = "<group>"; };
+		F133EC511F35760E009AB81C /* 21431732-近代的なインターフェイス画面.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "21431732-近代的なインターフェイス画面.jpg"; sourceTree = "<group>"; };
+		F133EC531F359AA3009AB81C /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		F133EC551F359E47009AB81C /* munouViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = munouViewController.swift; sourceTree = "<group>"; };
+		F133EC571F35AC9A009AB81C /* studyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = studyViewController.swift; sourceTree = "<group>"; };
+		F133EC591F35ACC2009AB81C /* musicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = musicViewController.swift; sourceTree = "<group>"; };
+		F133EC5B1F35ACD6009AB81C /* gtyaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gtyaViewController.swift; sourceTree = "<group>"; };
+		F133EC5D1F35AD01009AB81C /* raiburariViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = raiburariViewController.swift; sourceTree = "<group>"; };
+		F133EC5F1F35AFA7009AB81C /* munou2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = munou2ViewController.swift; sourceTree = "<group>"; };
+		F133EC621F35B964009AB81C /* 00118.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 00118.png; sourceTree = "<group>"; };
+		F133EC631F35B964009AB81C /* 1468829306.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1468829306.jpg; sourceTree = "<group>"; };
+		F133EC641F35B964009AB81C /* 20150725164919.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150725164919.jpg; sourceTree = "<group>"; };
+		F133EC651F35B964009AB81C /* 2526814093.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2526814093.jpg; sourceTree = "<group>"; };
+		F133EC661F35B964009AB81C /* 36ba74ae.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 36ba74ae.png; sourceTree = "<group>"; };
+		F133EC671F35B964009AB81C /* 5047142i.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5047142i.jpeg; sourceTree = "<group>"; };
+		F133EC681F35B964009AB81C /* 51NkTFQoeCL._SX355_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 51NkTFQoeCL._SX355_.jpg; sourceTree = "<group>"; };
+		F133EC691F35B964009AB81C /* 73ee5969716525cf67a6e6ae7376139f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 73ee5969716525cf67a6e6ae7376139f.jpg; sourceTree = "<group>"; };
+		F133EC6A1F35B964009AB81C /* 9c0d9b00aa367b662b1aceba79946987.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9c0d9b00aa367b662b1aceba79946987.jpeg; sourceTree = "<group>"; };
+		F133EC6B1F35B964009AB81C /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		F133EC6C1F35B964009AB81C /* img20130405_001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img20130405_001.jpg; sourceTree = "<group>"; };
+		F133EC6D1F35B964009AB81C /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
+		F133EC6E1F35B964009AB81C /* mig (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mig (1).jpeg"; sourceTree = "<group>"; };
+		F133EC6F1F35B964009AB81C /* mig.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mig.jpeg; sourceTree = "<group>"; };
+		F133EC701F35B964009AB81C /* vgmusiclogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vgmusiclogo.jpg; sourceTree = "<group>"; };
+		F133EC711F35B964009AB81C /* ダウンロード東方.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ダウンロード東方.jpeg"; sourceTree = "<group>"; };
+		F17732EC1F36BC8100FCEFE4 /* song1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +279,15 @@
 				F133EB821F2DB2D5009AB81C /* study2Tests */,
 				F133EB8D1F2DB2D5009AB81C /* study2UITests */,
 				F133EB6C1F2DB2D5009AB81C /* Products */,
+				F133EC511F35760E009AB81C /* 21431732-近代的なインターフェイス画面.jpg */,
+				F133EC4F1F357608009AB81C /* depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg */,
+				F133EC401F356511009AB81C /* １２.png */,
+				F133EC4D1F35743F009AB81C /* Unknown.png */,
+				F133EC611F35B964009AB81C /* music画像 */,
+				F133EC441F357337009AB81C /* 背景 */,
+				F133EBEB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.26.png */,
+				F133EBEC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.37.png */,
+				F133EBED1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.53.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +304,20 @@
 		F133EB6D1F2DB2D5009AB81C /* study2 */ = {
 			isa = PBXGroup;
 			children = (
+				F17732EC1F36BC8100FCEFE4 /* song1.mp3 */,
 				F133EB6E1F2DB2D5009AB81C /* AppDelegate.swift */,
 				F133EB701F2DB2D5009AB81C /* ViewController.swift */,
+				F133EC531F359AA3009AB81C /* ViewController2.swift */,
+				F133EC571F35AC9A009AB81C /* studyViewController.swift */,
+				F133EC591F35ACC2009AB81C /* musicViewController.swift */,
+				F133EC5B1F35ACD6009AB81C /* gtyaViewController.swift */,
+				F133EC5D1F35AD01009AB81C /* raiburariViewController.swift */,
 				F133EB721F2DB2D5009AB81C /* Main.storyboard */,
 				F133EB751F2DB2D5009AB81C /* Assets.xcassets */,
 				F133EB771F2DB2D5009AB81C /* LaunchScreen.storyboard */,
 				F133EB7A1F2DB2D5009AB81C /* Info.plist */,
+				F133EC551F359E47009AB81C /* munouViewController.swift */,
+				F133EC5F1F35AFA7009AB81C /* munou2ViewController.swift */,
 			);
 			path = study2;
 			sourceTree = "<group>";
@@ -123,6 +338,104 @@
 				F133EB901F2DB2D5009AB81C /* Info.plist */,
 			);
 			path = study2UITests;
+			sourceTree = "<group>";
+		};
+		F133EC441F357337009AB81C /* 背景 */ = {
+			isa = PBXGroup;
+			children = (
+				F133EBCA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.02.png */,
+				F133EC451F357337009AB81C /* あわ.jpg */,
+				F133EC461F357337009AB81C /* カッコイイ.jpg */,
+				F133EC471F357337009AB81C /* マリオ.jpg */,
+				F133EBAE1F2DB50B009AB81C /* １.jpeg */,
+				F133EBB21F2DBA94009AB81C /* 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg */,
+				F133EBB31F2DBA94009AB81C /* 9e3e9c9919697316ed9fce86ed50d207.jpg */,
+				F133EBB41F2DBA94009AB81C /* 018-pictogram-illustration.jpg */,
+				F133EBB61F2DBA94009AB81C /* Bfnk32_CEAEiGRE.jpg */,
+				F133EBB51F2DBA94009AB81C /* aYaIkZ2iwkbGkme_S9QaS_218.png */,
+				F133EBB91F2DBA94009AB81C /* cd91a31bcd5fee183d754d3f22c266d6.jpg */,
+				F133EBBA1F2DBA94009AB81C /* ClklYzOUYAElXtw.jpg */,
+				F133EBC41F2DBAD2009AB81C /* Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg */,
+				F133EBC51F2DBAD2009AB81C /* imgb7013481zik1zj-e1401337402514-300x186.jpeg */,
+				F133EBC71F2DBAD2009AB81C /* あきらめ.jpg */,
+				F133EBC81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 10.28.12.png */,
+				F133EC481F357337009AB81C /* 月.jpg */,
+				F133EBCC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.05.png */,
+				F133EBCB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.29.png */,
+				F133EBCD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.20.png */,
+				F133EBCE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.24.png */,
+				F133EBCF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.37.png */,
+				F133EBD01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.47.png */,
+				F133EBD11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.03.png */,
+				F133EBD21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.27.png */,
+				F133EBD31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.22.png */,
+				F133EBD41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.32.png */,
+				F133EBD51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.38.png */,
+				F133EBD61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.13.png */,
+				F133EBD71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.33.png */,
+				F133EBD81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.55.png */,
+				F133EBD91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.43.15.png */,
+				F133EBDA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.09.png */,
+				F133EBDB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.44.png */,
+				F133EBDC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.58.png */,
+				F133EBDD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.19.png */,
+				F133EBDE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.37.png */,
+				F133EBDF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.41.png */,
+				F133EBE01F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.49.png */,
+				F133EBE11F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.53.png */,
+				F133EBE21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.02.png */,
+				F133EBE31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.11.png */,
+				F133EBE41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.23.png */,
+				F133EBE51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.30.png */,
+				F133EBE61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.36.png */,
+				F133EBE71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.50.png */,
+				F133EBE81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.00.png */,
+				F133EBE91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.07.png */,
+				F133EBEA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.18.png */,
+				F133EC421F3569DF009AB81C /* １１.jpg */,
+				F133EC181F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.49.01.png */,
+				F133EC191F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.44.png */,
+				F133EC1A1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.49.png */,
+				F133EC1B1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.54.png */,
+				F133EC1C1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.03.png */,
+				F133EC1D1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.08.png */,
+				F133EC1E1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.18.png */,
+				F133EC1F1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.22.png */,
+				F133EC201F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.27.png */,
+				F133EC211F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.32.png */,
+				F133EC221F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.37.png */,
+				F133EC231F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.46.png */,
+				F133EC241F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.52.png */,
+				F133EC251F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.52.00.png */,
+				F133EC261F2DBDF0009AB81C /* ダウンロード (1).jpeg */,
+				F133EC271F2DBDF0009AB81C /* ダウンロード.jpeg */,
+				F133EC281F2DBDF0009AB81C /* ダウンロードのコピー.jpeg */,
+			);
+			path = "背景";
+			sourceTree = "<group>";
+		};
+		F133EC611F35B964009AB81C /* music画像 */ = {
+			isa = PBXGroup;
+			children = (
+				F133EBC91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.20.48.png */,
+				F133EC621F35B964009AB81C /* 00118.png */,
+				F133EC631F35B964009AB81C /* 1468829306.jpg */,
+				F133EC641F35B964009AB81C /* 20150725164919.jpg */,
+				F133EC651F35B964009AB81C /* 2526814093.jpg */,
+				F133EC661F35B964009AB81C /* 36ba74ae.png */,
+				F133EC671F35B964009AB81C /* 5047142i.jpeg */,
+				F133EC681F35B964009AB81C /* 51NkTFQoeCL._SX355_.jpg */,
+				F133EC691F35B964009AB81C /* 73ee5969716525cf67a6e6ae7376139f.jpg */,
+				F133EC6A1F35B964009AB81C /* 9c0d9b00aa367b662b1aceba79946987.jpeg */,
+				F133EC6B1F35B964009AB81C /* images.jpeg */,
+				F133EC6C1F35B964009AB81C /* img20130405_001.jpg */,
+				F133EC6D1F35B964009AB81C /* maxresdefault.jpg */,
+				F133EC6E1F35B964009AB81C /* mig (1).jpeg */,
+				F133EC6F1F35B964009AB81C /* mig.jpeg */,
+				F133EC701F35B964009AB81C /* vgmusiclogo.jpg */,
+				F133EC711F35B964009AB81C /* ダウンロード東方.jpeg */,
+			);
+			path = "music画像";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,6 +507,11 @@
 					F133EB6A1F2DB2D5009AB81C = {
 						CreatedOnToolsVersion = 8.3.2;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					F133EB7E1F2DB2D5009AB81C = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -232,9 +550,101 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F133EC0A1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.49.png in Resources */,
+				F133EC371F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.46.png in Resources */,
+				F133EC351F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.32.png in Resources */,
+				F133EBFE1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.32.png in Resources */,
+				F133EBF21F2DBAD2009AB81C /* スクリーンショット 2017-07-30 10.28.12.png in Resources */,
+				F133EC741F35B964009AB81C /* 20150725164919.jpg in Resources */,
+				F17732ED1F36BC8100FCEFE4 /* song1.mp3 in Resources */,
+				F133EC0B1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.53.png in Resources */,
+				F133EC161F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.37.png in Resources */,
+				F133EBFC1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.27.png in Resources */,
+				F133EC2F1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.54.png in Resources */,
 				F133EB791F2DB2D5009AB81C /* LaunchScreen.storyboard in Resources */,
+				F133EC731F35B964009AB81C /* 1468829306.jpg in Resources */,
+				F133EC391F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.52.00.png in Resources */,
+				F133EC791F35B964009AB81C /* 73ee5969716525cf67a6e6ae7376139f.jpg in Resources */,
+				F133EC7F1F35B964009AB81C /* mig.jpeg in Resources */,
+				F133EC081F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.37.png in Resources */,
+				F133EBFA1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.47.png in Resources */,
+				F133EC151F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.26.png in Resources */,
+				F133EC001F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.13.png in Resources */,
+				F133EC7B1F35B964009AB81C /* images.jpeg in Resources */,
+				F133EC381F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.52.png in Resources */,
+				F133EBB11F2DB50B009AB81C /* １.jpeg in Resources */,
+				F133EC411F356511009AB81C /* １２.png in Resources */,
+				F133EC801F35B964009AB81C /* vgmusiclogo.jpg in Resources */,
+				F133EC3C1F2DBDF0009AB81C /* ダウンロードのコピー.jpeg in Resources */,
+				F133EBF41F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.02.png in Resources */,
+				F133EC321F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.18.png in Resources */,
+				F133EC7A1F35B964009AB81C /* 9c0d9b00aa367b662b1aceba79946987.jpeg in Resources */,
+				F133EBEF1F2DBAD2009AB81C /* imgb7013481zik1zj-e1401337402514-300x186.jpeg in Resources */,
+				F133EC141F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.18.png in Resources */,
+				F133EC0C1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.02.png in Resources */,
+				F133EBFF1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.38.png in Resources */,
+				F133EC491F357337009AB81C /* あわ.jpg in Resources */,
+				F133EBF81F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.24.png in Resources */,
+				F133EC521F35760E009AB81C /* 21431732-近代的なインターフェイス画面.jpg in Resources */,
+				F133EBF91F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.39.37.png in Resources */,
+				F133EC331F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.22.png in Resources */,
+				F133EC4B1F357337009AB81C /* マリオ.jpg in Resources */,
+				F133EC051F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.44.png in Resources */,
+				F133EC111F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.50.png in Resources */,
+				F133EBBC1F2DBA94009AB81C /* 9e3e9c9919697316ed9fce86ed50d207.jpg in Resources */,
+				F133EC4C1F357337009AB81C /* 月.jpg in Resources */,
+				F133EC341F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.27.png in Resources */,
 				F133EB761F2DB2D5009AB81C /* Assets.xcassets in Resources */,
+				F133EC0F1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.30.png in Resources */,
+				F133EC091F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.46.41.png in Resources */,
+				F133EBBB1F2DBA94009AB81C /* 6dd3efce2ea4b6c7fa398dd4188f8b44.jpg in Resources */,
+				F133EC031F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.43.15.png in Resources */,
+				F133EBBE1F2DBA94009AB81C /* aYaIkZ2iwkbGkme_S9QaS_218.png in Resources */,
+				F133EC011F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.33.png in Resources */,
+				F133EC501F357608009AB81C /* depositphotos_47395669-stock-illustration-mechanical-abstract-background.jpg in Resources */,
+				F133EBF51F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.21.29.png in Resources */,
+				F133EC0E1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.23.png in Resources */,
+				F133EC3A1F2DBDF0009AB81C /* ダウンロード (1).jpeg in Resources */,
+				F133EBFD1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.41.22.png in Resources */,
+				F133EC781F35B964009AB81C /* 51NkTFQoeCL._SX355_.jpg in Resources */,
+				F133EC311F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.08.png in Resources */,
 				F133EB741F2DB2D5009AB81C /* Main.storyboard in Resources */,
+				F133EC721F35B964009AB81C /* 00118.png in Resources */,
+				F133EBF71F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.20.png in Resources */,
+				F133EC061F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.58.png in Resources */,
+				F133EC7D1F35B964009AB81C /* maxresdefault.jpg in Resources */,
+				F133EC771F35B964009AB81C /* 5047142i.jpeg in Resources */,
+				F133EBBF1F2DBA94009AB81C /* Bfnk32_CEAEiGRE.jpg in Resources */,
+				F133EC811F35B964009AB81C /* ダウンロード東方.jpeg in Resources */,
+				F133EC761F35B964009AB81C /* 36ba74ae.png in Resources */,
+				F133EBBD1F2DBA94009AB81C /* 018-pictogram-illustration.jpg in Resources */,
+				F133EC171F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.53.png in Resources */,
+				F133EC751F35B964009AB81C /* 2526814093.jpg in Resources */,
+				F133EC2D1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.44.png in Resources */,
+				F133EBC31F2DBA94009AB81C /* ClklYzOUYAElXtw.jpg in Resources */,
+				F133EBFB1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.40.03.png in Resources */,
+				F133EC7C1F35B964009AB81C /* img20130405_001.jpg in Resources */,
+				F133EC4A1F357337009AB81C /* カッコイイ.jpg in Resources */,
+				F133EC361F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.37.png in Resources */,
+				F133EC4E1F35743F009AB81C /* Unknown.png in Resources */,
+				F133EC301F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.51.03.png in Resources */,
+				F133EC101F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.36.png in Resources */,
+				F133EC071F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.45.19.png in Resources */,
+				F133EBC21F2DBA94009AB81C /* cd91a31bcd5fee183d754d3f22c266d6.jpg in Resources */,
+				F133EBEE1F2DBAD2009AB81C /* Diyフレーム-font-b-bleach-b-font-日本クラシックコミックアニメポスタームーン風景生地シルクポスターと版画用寝室装飾.jpg in Resources */,
+				F133EC2E1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.50.49.png in Resources */,
+				F133EC7E1F35B964009AB81C /* mig (1).jpeg in Resources */,
+				F133EC431F3569DF009AB81C /* １１.jpg in Resources */,
+				F133EC131F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.07.png in Resources */,
+				F133EC0D1F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.47.11.png in Resources */,
+				F133EC041F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.44.09.png in Resources */,
+				F133EC021F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.42.55.png in Resources */,
+				F133EC121F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.48.00.png in Resources */,
+				F133EC2C1F2DBDF0009AB81C /* スクリーンショット 2017-07-30 13.49.01.png in Resources */,
+				F133EBF11F2DBAD2009AB81C /* あきらめ.jpg in Resources */,
+				F133EBF31F2DBAD2009AB81C /* スクリーンショット 2017-07-30 12.20.48.png in Resources */,
+				F133EBF61F2DBAD2009AB81C /* スクリーンショット 2017-07-30 13.31.05.png in Resources */,
+				F133EC3B1F2DBDF0009AB81C /* ダウンロード.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +669,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F133EC5E1F35AD01009AB81C /* raiburariViewController.swift in Sources */,
 				F133EB711F2DB2D5009AB81C /* ViewController.swift in Sources */,
+				F133EC581F35AC9A009AB81C /* studyViewController.swift in Sources */,
+				F133EC5A1F35ACC2009AB81C /* musicViewController.swift in Sources */,
 				F133EB6F1F2DB2D5009AB81C /* AppDelegate.swift in Sources */,
+				F133EC541F359AA3009AB81C /* ViewController2.swift in Sources */,
+				F133EC561F359E47009AB81C /* munouViewController.swift in Sources */,
+				F133EC5C1F35ACD6009AB81C /* gtyaViewController.swift in Sources */,
+				F133EC601F35AFA7009AB81C /* munou2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +922,7 @@
 				F133EB951F2DB2D5009AB81C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F133EB961F2DB2D5009AB81C /* Build configuration list for PBXNativeTarget "study2Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +931,7 @@
 				F133EB981F2DB2D5009AB81C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F133EB991F2DB2D5009AB81C /* Build configuration list for PBXNativeTarget "study2UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +940,7 @@
 				F133EB9B1F2DB2D5009AB81C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
