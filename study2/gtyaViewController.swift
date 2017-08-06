@@ -12,6 +12,7 @@ class gtyaViewController: UIViewController {
 
     let saveData: UserDefaults = UserDefaults.standard
     
+     var point: Int = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()

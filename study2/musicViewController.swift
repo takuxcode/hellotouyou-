@@ -31,7 +31,7 @@ class musicViewController: UIViewController, UITableViewDataSource,UITableViewDe
         //曲名を下のに入れる
         songNameArray = ["東方メドレー","お試し２"]
         //曲のファイル名
-        fileNameArray = ["song1","お試し２"]
+        fileNameArray = ["","お試し２"]
         //曲のイメージファイル名
         imageNameArray = ["ダウンロード東方.jpeg","お試し２"]
         // Do any additional setup after loading the view.

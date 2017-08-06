@@ -66,6 +66,7 @@ class studyViewController: UIViewController {
         if count == Float(Int(count)) && Int(count) % 10 == 0 {
             point += 1
             saveData.set(point, forKey: "02")
+            pointLabel.text = String(point)
         }
         
         
