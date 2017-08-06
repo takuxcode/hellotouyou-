@@ -10,18 +10,66 @@ import UIKit
 
 class studyViewController: UIViewController {
 
+    let saveData: UserDefaults = UserDefaults.standard
+    
+    @IBOutlet var label: UILabel!
+    
+    @IBOutlet var pointLabel: UILabel!
+    
+    var count: Float = 0.0
+    
+    var point: Int = 0
+    
+    var timer: Timer = Timer()
+    
+    @IBOutlet var pointBar: UIProgressView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
         // Do any additional setup after loading the view.
     }
+    
+    @IBAction func start() {
+        if !timer.isValid {
+            timer = Timer.scheduledTimer(
+                timeInterval: 0.01,
+                target: self,selector:#selector(self.up),userInfo: nil,repeats: true)
+        }
+           }
+    
+    @IBAction func stop() {
+        if timer.isValid {
+            timer.invalidate()
+            
+        }
+        
+    }
+    
+    @IBAction func clear() {
+        count = 0.0
+    }
 
+    func up() {
+        count = count + 0.01
+        label.text = String(format: "%.2f", count)
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
-
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        if count == Float(Int(count)) && Int(count) % 10 == 0 {
+            point += 1
+            saveData.set(point, forKey: "02")
+        }
+        
+        
+    }
     
     
     

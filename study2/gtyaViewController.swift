@@ -10,6 +10,9 @@ import UIKit
 
 class gtyaViewController: UIViewController {
 
+    let saveData: UserDefaults = UserDefaults.standard
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -21,7 +24,11 @@ class gtyaViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
  
-    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        point = saveData.object(forKey: "02")
+    }
     
     @IBAction func modoru() {
         dismiss(animated: true, completion: nil)
